@@ -71,7 +71,7 @@ const ConfigMenu = ({
   );
 };
 
-/*
+
 export const ModelSelector = ({
   _model,
   _setModel,
@@ -119,7 +119,7 @@ export const ModelSelector = ({
     </div>
   );
 };
-*/
+
 export const MaxTokenSlider = ({
   _maxToken,
   _setMaxToken,
